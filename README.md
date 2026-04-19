@@ -47,7 +47,7 @@ Food---Lamb-2-web.jpg                               # Special cuts hero image
 | 📱 **Phone 2** | [+212 6 66 54 09 76](tel:+212666540976) |
 | 💬 **WhatsApp** | [Message Now](https://wa.me/212808600401) |
 | 📸 **Instagram** | [@theblacksmi.th](https://instagram.com/theblacksmi.th) |
-| 📍 **Location** | Casablanca, Morocco |
+| 📍 **Location** | Agadir , Morocco |
 
 ## 🚀 Quick Setup
 
